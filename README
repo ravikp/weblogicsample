@@ -1,0 +1,11 @@
+this application uses gradle to build the source code
+
+in the root directory execute the following commands
+
+> gradle build
+
+war file with file name  are generated in directory
+
+root/restsvc/build/libs/restsvc-0.1.0.war
+
+>> deploy the war to oracle web logic server.

@@ -9,3 +9,8 @@ war file with file name  are generated in directory
 root/restsvc/build/libs/restsvc-0.1.0.war
 
 >> deploy the war to oracle web logic server.
+
+To deploy spring boot application into weblogic, this example uses traditional deployment techniques
+at
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-traditional-deployment.html
